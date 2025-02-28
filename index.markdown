@@ -4,7 +4,7 @@ layout: home
 
 # New York Metro Papyrology Workshop 2025
 
-The preliminary program has been published. Please see the [Program](/metropap2/program/) page for details.
+The preliminary program has been published. Please see the [Program](program/) page for details.
 
 ## Event Details
 

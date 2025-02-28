@@ -8,5 +8,5 @@ The first New York Metro Papyrology Workshop was held at ISAW in December 2022 a
 
 The workshop was inspired by the papyrologial seminar that [Prof. Roger S. Bagnall](https://isaw.nyu.edu/people/faculty/emeritus-faculty/rbagnall), the first Leon Levy Director of ISAW, hosted in his apartment in New York for thirty years.  
 
-![Roger Bagnall](/assets/bagnall_lecture.jpg "Roger S. Bagnall at a podium lecturing in 2019")
+![Roger Bagnall](../assets/bagnall_lecture.jpg "Roger S. Bagnall at a podium lecturing in 2019")
 
