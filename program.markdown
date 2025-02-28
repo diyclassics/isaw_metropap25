@@ -4,8 +4,6 @@ title: Program
 permalink: /program/
 ---
 
-# Program
-
 **8:45    Welcome (David M. Ratzan, ISAW)**
 
 ### *Economic and administrative history of Roman Egypt*
